@@ -1,0 +1,6 @@
+// Mixin centrage horizontal et vertical
+@mixin flexcenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

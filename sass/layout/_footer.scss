@@ -1,0 +1,10 @@
+footer {
+  @include flexcenter();
+  margin: 35px 15px;
+}
+
+footer span {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
